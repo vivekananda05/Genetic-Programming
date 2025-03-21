@@ -4,3 +4,4 @@ Feature importance and sensitivity analysis is done.
 
 
 <img src="new_rf_metrics1.png" alt="Genetic Programming" width="500" height="500">
+<img src="rf_feature_imp_plot.png" width="500" height="500"?
